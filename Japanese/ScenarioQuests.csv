@@ -170,18 +170,18 @@ PROPQUEST_SCENARIO_INC_000488,Deliver the Diary to the Mayor of Darkon.,ダー�
 PROPQUEST_SCENARIO_INC_000490,Journal of an Adventurer (2),ある冒険家の日記　2章
 PROPQUEST_SCENARIO_INC_000491,"You should hear this. This is the diary of the adventurer Bartholomew Hunt. My grand father knew of him, he was a legend at one time…",ちょっと聞いてくれ。実は、これはハーモニンという探検家が書いた日記なのだ。私の祖父が彼と友達で、幼い頃私にいつも冒険談を聞かせてくれたことを今でも覚えているよ。
 PROPQUEST_SCENARIO_INC_000492,HA! Look at this… he is claiming that he discovered a new continent. New continent? How absurd!,その冒険談の中で新しい大陸を発見したという嘘みたいな話もしてくれた。新しい大陸？そんなバカな！と思ったものだよ。
-PROPQUEST_SCENARIO_INC_000493,"I can't read the writing here, it appears to be a code of some sort. Maybe the Sage Radion can figure out what this writing is. Please bring him the diary.",この日記を見たまえ。この文字は何かの暗号のようだが…｢大賢者｣ラディオンなら読むことができるかもしれない。君、この日記を｢大賢者｣ラディオンに渡してくれないか？
-PROPQUEST_SCENARIO_INC_000494,"Sage Radion is is in the Northern Leren Mountains, near the Fountain of Dead Person.",助かるわ。｢大賢者｣ラディオンはフラリスのどこかにいるそうですわよ。
+PROPQUEST_SCENARIO_INC_000493,"I can't read the writing here, it appears to be a code of some sort. Maybe the Sage Radion can figure out what this writing is. Please bring him the diary.",この日記を見たまえ。この文字は何かの暗号のようだが…[大賢者]ラディオンなら読むことができるかもしれない。君、この日記を[大賢者]ラディオンに渡してくれないか？
+PROPQUEST_SCENARIO_INC_000494,"Sage Radion is is in the Northern Leren Mountains, near the Fountain of Dead Person.",助かるぞ。[大賢者]ラディオンはレルエン山脈北部にある＜魂の泉＞のそばにいるはずだ。
 PROPQUEST_SCENARIO_INC_000495,You are to busy? If this information is accurate do you know what this could mean?,そうか…忙しいなら仕方がないな。
 PROPQUEST_SCENARIO_INC_000496,What brings you to see me?,私に何か用か？
 PROPQUEST_SCENARIO_INC_000497,"If the Mayor of Darkon sent you, it must be important. Let me see the Diary.",ふむ、ダーコン市長から頼みがあったのじゃな？よし、解読してみるから、おぬしはそこで目を瞑っておれ。
-PROPQUEST_SCENARIO_INC_000498,Find the Sage Radion to decode the writing in the Diary.,暗号の解読のため、冒険者の手記を｢大賢者｣ラディオンに渡そう。
+PROPQUEST_SCENARIO_INC_000498,Find the Sage Radion to decode the writing in the Diary.,暗号の解読のため、冒険者の手記を[大賢者]ラディオンに渡そう。
 PROPQUEST_SCENARIO_INC_000501,Journal of an Adventurer (3),ある冒険家の日記　第3章
 PROPQUEST_SCENARIO_INC_000502,"Why, this is not a code… Amazing! The language of the Ancient Tribe. This Bartholomew Hunt must have really known his stuff. Maybe there is more to this…",よし、もう目を開けてよいぞ。しかし…ハーモニンという者は想像以上に博識な人物だったようじゃな。このような古代文字を知っていたとはのう。
 PROPQUEST_SCENARIO_INC_000503,"I have translated the Ancient language. Bring this Translated Document to the Mayor of Darkon. Keep it safe, this is truly a special thing!",これはの、新大陸の場所を示している貴重な情報じゃ。これは解読した内容を記した文書じゃからダーコン市長に渡しておくれ。手記は私がもっと調べてから、直接渡すとしよう。
 PROPQUEST_SCENARIO_INC_000504,You are playing an important role in historic events.,これは歴史的大発見になるのぉ。
 PROPQUEST_SCENARIO_INC_000505,I can't believe it! The possibility of a new land and you are not interested?,おぬし、歴史の一部に触れてみる気はないのかね？
-PROPQUEST_SCENARIO_INC_000506,You can't imagine how eagerly I've been waiting for you to return. Have you met the Sage Radion? Is there news?,おお、君が来るのを待っていたよ。それで、｢大賢者｣ラディオンには会えたのかい？
+PROPQUEST_SCENARIO_INC_000506,You can't imagine how eagerly I've been waiting for you to return. Have you met the Sage Radion? Is there news?,おお、君が来るのを待っていたよ。それで、[大賢者]ラディオンには会えたのかい？
 PROPQUEST_SCENARIO_INC_000507,He was able to translate it? Wonderful. Now we can see if this is real or just a wild goose chase… Give me a moment to read through this.,これが、解読した文書なんだね？ありがとう。これはお礼です。少ないけれど受け取ってほしい。君には本当に感謝している。たまにはダーコンにも遊びに来るといい。君とは色々な意味で仲良くなれる気がするよ。はっはっはっ。
 PROPQUEST_SCENARIO_INC_000508,Bring the translated document to the Mayor of Darkon.,解読した内容を記した文書をダーコン市長に渡そう。
 PROPQUEST_SCENARIO_INC_000741,Chain,シナリオ
@@ -189,7 +189,7 @@ PROPQUEST_SCENARIO_INC_000742,General,一般
 PROPQUEST_SCENARIO_INC_000743,Office,依頼所
 PROPQUEST_SCENARIO_INC_000744,Event,イベント
 PROPQUEST_SCENARIO_INC_000785,"Don’t worry about the pay. So, please hurry up.",報酬もたくさん渡すので、急いでくれ！
-PROPQUEST_SCENARIO_INC_000786,"It is very important, so you'd better hurry!",重要な事なので急いでください。
+PROPQUEST_SCENARIO_INC_000786,"It is very important, so you'd better hurry!",これはとても重要な事なのだ。急いでくれ！
 PROPQUEST_SCENARIO_INC_000787,The Mayor of Darkon is waiting for you. Hurry!,ダーコン市長が待ってるので急いでください。
 PROPQUEST_SCENARIO_INC_001245,Chapter 1 The Emerging Darkness,第1章：マドリガル崩壊の兆し
 PROPQUEST_SCENARIO_INC_001965,Chapter 2 Finding Lost Memory,第2章：創世戦争の記録
@@ -382,7 +382,7 @@ PROPQUEST_SCENARIO_INC_001478,I can hardly remember what I had for breakfast. Go
 PROPQUEST_SCENARIO_INC_001479,"Wow, seems like my headache is already lifting knowing I got you out of my hair. Master Radeon is on the other side of the Fountain of the Dead. Go see him!",ひょっとするとこの頭痛の原因もわかるかもしれない。すまないが、頼んだぞ。
 PROPQUEST_SCENARIO_INC_001480,You don’t want to do it? Alright...,そうか……
 PROPQUEST_SCENARIO_INC_001481,Hmm? So Reonan is inquiring of Hael? It appears that it is time…,何と、ハエルがそのように申しておるのか。ふむ……
-PROPQUEST_SCENARIO_INC_001483,Find Master Radeon and ask about the Hael's past.,ハエルの過去を大賢者ラディオンに尋ねよ。
+PROPQUEST_SCENARIO_INC_001483,Find Master Radeon and ask about the Hael's past.,ハエルの過去を[大賢者]ラディオンに尋ねよ。
 PROPQUEST_SCENARIO_INC_001485,Shards of Memory,記憶のかけら
 PROPQUEST_SCENARIO_INC_001486,"I have known Hael many years. When I first discovered him, he was laying there unconscious. I was able to nurse him back to health, but still he had no recollection of his memory. There is a way to recover it though…",そう……ハエルはワシがこの地に連れてきたのじゃ。どのような理由かはわからんが、記憶を失っておった。
 PROPQUEST_SCENARIO_INC_001487,I feel there might be something important lost in his past. The only way to recover it would be by using a Memory Shard. This should allow Hael to uncover his past.,フラリスの北東にある祭壇に記憶のかけらという石がある。ただし、これだけでは足りぬぞ。記憶を戻すにはさらにひと手間必要じゃ。
@@ -1313,16 +1313,16 @@ PROPQUEST_SCENARIO_INC_002601,So Lapranche was released from her prison after al
 PROPQUEST_SCENARIO_INC_002602,Go speak with the Mayor of Darken City!,ダーコン市長と話してください!
 PROPQUEST_SCENARIO_INC_002603,Report to the Mayor of Darken City.,ダーコン市長に報告してください。
 PROPQUEST_SCENARIO_INC_002604,There's Something in the Water,水の中に何かがある
-PROPQUEST_SCENARIO_INC_002605,"It was reported a few hours ago that a wall near where the Syliaca roam recently burst open, flooding the caves. Something this destructive has not happened in many years... I am certain this was caused by Lapranche's meddling.",数時間前に、シリアカが歩き回る場所の近くの壁が最近破裂し、洞窟が浸水したと報告されました。この破壊的なことは何年も起こっていません..これはラプランシュの干渉によって引き起こされたと確信しています。
-PROPQUEST_SCENARIO_INC_002606,"I wish to investigate the matter, but I have to attend to my duties here in the city.",私はその件を調査したいのですが、私はこの街での職務に出席しなければなりません。
-PROPQUEST_SCENARIO_INC_002607,Collect enough samples of Syliaca to see if the flood has caused any mutations in their DNA.,洪水がDNAに突然変異を引き起こしたかどうかを確認するために、シリアカの十分なサンプルを収集します。
+PROPQUEST_SCENARIO_INC_002605,"It was reported a few hours ago that a wall near where the Syliaca roam recently burst open, flooding the caves. Something this destructive has not happened in many years... I am certain this was caused by Lapranche's meddling.",数時間前、シーラカが生息する付近の壁が突然破裂し、洞窟内に水があふれ出したとの報告があった。これほど破壊的な事態は、ここ何年も起きていなかった..これは間違いなく、ラプランシュの干渉によって引き起こされたと確信している。
+PROPQUEST_SCENARIO_INC_002606,"I wish to investigate the matter, but I have to attend to my duties here in the city.",この件について調査したいのだが、私はこの街での職務に出席しなければならない。
+PROPQUEST_SCENARIO_INC_002607,Collect enough samples of Syliaca to see if the flood has caused any mutations in their DNA.,あふれ出した水がDNAに変異を引き起こしたかどうかを確認するために、シーラカの十分なサンプルを収集します。
 PROPQUEST_SCENARIO_INC_002608,"Without your help, who knows when I'll have time to investigate this matter...",あなたの助けがなければ、私がこの問題を調査する時間がいつあるか誰が知っていますか..
-PROPQUEST_SCENARIO_INC_002609,Fascinating! After analyzing the Syliaca samples it seems the water in the flood contains a magic component that affects the Syliaca's brain.,嬈！シリアカのサンプルを分析した後、洪水の水にはシリアカの脳に影響を与える魔法の成分が含まれているようです。
-PROPQUEST_SCENARIO_INC_002610,The hormones of these Syliaca seem to affect how aggressive they will become. And their teeth are somehow much sharper than before...,これらのシリアカのホルモンは、彼らがどれほど攻撃的になるかに影響を与えるようです。そして、彼らの歯はどういうわけか以前よりもはるかに鋭いです..
-PROPQUEST_SCENARIO_INC_002611,Collect 20 Syliaca DNA.,20個のシリアカDNAを収集します。
+PROPQUEST_SCENARIO_INC_002609,Fascinating! After analyzing the Syliaca samples it seems the water in the flood contains a magic component that affects the Syliaca's brain.,なんと興味深い！シーラカのサンプルを分析した結果、あふれ出した水にはシーラカの脳に影響を与える魔法の成分が含まれているようだ。
+PROPQUEST_SCENARIO_INC_002610,The hormones of these Syliaca seem to affect how aggressive they will become. And their teeth are somehow much sharper than before...,これらのシーラカのホルモンは、彼らがどれほど攻撃的になるかに影響を与えるようです。そして、彼らの歯はどういうわけか以前よりもはるかに鋭いです..
+PROPQUEST_SCENARIO_INC_002611,Collect 20 Syliaca DNA.,20個のシーラカDNAを収集します。
 PROPQUEST_SCENARIO_INC_002612,The Hidden Cavern,隠された洞窟
 PROPQUEST_SCENARIO_INC_002613,"If the water from the flood continues to affect the masquerpets in the Cave of Envy, soon they may become too strong for our forces to overcome. We must find the broken wall and see if a repair is possible.",洪水からの水が羨望の洞窟の仮面舞踏会に影響を与え続けるならば、すぐに彼らは私たちの力が克服するには強すぎるかもしれません。壊れた壁を見つけて、修理が可能かどうかを確認する必要があります。
-PROPQUEST_SCENARIO_INC_002614,The hole must be near the Syliaca... find it and determine if the damage is reparable.,穴はシリアカの近くにある必要があります。それを見つけて、損傷が修復可能かどうかを判断します。
+PROPQUEST_SCENARIO_INC_002614,The hole must be near the Syliaca... find it and determine if the damage is reparable.,穴はシーラカの近くにある必要があります。それを見つけて、損傷が修復可能かどうかを判断します。
 PROPQUEST_SCENARIO_INC_002615,"If we leave the break in the walls of the Cave of Envy for too long, this situation will become an even bigger disaster.",羨望の洞窟の壁の切れ目を長時間放置すると、この状況はさらに大きな災害になります。
 PROPQUEST_SCENARIO_INC_002616,"So behind the wall seems to be a large, ornate cavern... What has Lapranche opened up to the world!?",壁の後ろには大きくて華やかな洞窟があるようです。ラプランシュは世界に何を切り開いたのか!?
 PROPQUEST_SCENARIO_INC_002617,Find the damaged wall in the Cave of Envy.,羨望の洞窟で損傷した壁を見つけてください。
@@ -1337,17 +1337,17 @@ PROPQUEST_SCENARIO_INC_002625,Seek out the guard in front of the Envy Depths.,�
 PROPQUEST_SCENARIO_INC_002626,Meet with the guard outside the Envy Depths.,羨望の深さの外で警備員と会いましょう。
 PROPQUEST_SCENARIO_INC_002627,Envy Depths Part 3,羨望の深さパート3
 PROPQUEST_SCENARIO_INC_002628,Growing Gills,えらの成長
-PROPQUEST_SCENARIO_INC_002629,"After being assigned to my post here in the Cave of Envy, I've witnessed dozens of Syliaca enter the waters of the cavern behind me. If what the mayor said is true... those Syliaca may have grown into something much stronger by now. An investigation is in order.",ここ羨望の洞窟の私のポストに割り当てられた後、私は何十ものシリアカが私の後ろの洞窟の海に入るのを目撃しました。市長の言ったことが本当なら..それらのシリアカは今でははるかに強いものに成長しているかもしれません。調査が必要です。
-PROPQUEST_SCENARIO_INC_002630,Head inside the cavern behind me and find out what have happened to the Syliaca.,私の後ろの洞窟の中に向かい、シリアカに何が起こったのかを調べてください。
-PROPQUEST_SCENARIO_INC_002631,You seem strong enough to handle a few empowered Syliaca... but maybe not.,あなたはいくつかの権限を与えられたシリアカを処理するのに十分強いようです..しかし、そうではないかもしれません。
-PROPQUEST_SCENARIO_INC_002632,Very interesting... so the Syliaca have turned into Overgrown Sharks after ingesting the cavern's magic waters. I am curious what else may be living within the cavern...,非常に興味深い..そのため、シリアカは洞窟の魔法の水を摂取した後、生い茂ったサメに変わりました。洞窟の中に他に何が住んでいるのか興味があります。
-PROPQUEST_SCENARIO_INC_002633,Find out what have become of the Syliaca that entered the cavern.,洞窟に入ったシリアカがどうなったかを調べてください。
+PROPQUEST_SCENARIO_INC_002629,"After being assigned to my post here in the Cave of Envy, I've witnessed dozens of Syliaca enter the waters of the cavern behind me. If what the mayor said is true... those Syliaca may have grown into something much stronger by now. An investigation is in order.",ここ羨望の洞窟の私のポストに割り当てられた後、私は何十ものシーラカが私の後ろの洞窟の海に入るのを目撃しました。市長の言ったことが本当なら..それらのシーラカは今でははるかに強いものに成長しているかもしれません。調査が必要です。
+PROPQUEST_SCENARIO_INC_002630,Head inside the cavern behind me and find out what have happened to the Syliaca.,私の後ろの洞窟の中に向かい、シーラカに何が起こったのかを調べてください。
+PROPQUEST_SCENARIO_INC_002631,You seem strong enough to handle a few empowered Syliaca... but maybe not.,あなたはいくつかの権限を与えられたシーラカを処理するのに十分強いようです..しかし、そうではないかもしれません。
+PROPQUEST_SCENARIO_INC_002632,Very interesting... so the Syliaca have turned into Overgrown Sharks after ingesting the cavern's magic waters. I am curious what else may be living within the cavern...,非常に興味深い..そのため、シーラカは洞窟の魔法の水を摂取した後、生い茂ったサメに変わりました。洞窟の中に他に何が住んでいるのか興味があります。
+PROPQUEST_SCENARIO_INC_002633,Find out what have become of the Syliaca that entered the cavern.,洞窟に入ったシーラカがどうなったかを調べてください。
 PROPQUEST_SCENARIO_INC_002634,Kill 25 Overgrown Shark.,生い茂ったサメを25体殺す。
 PROPQUEST_SCENARIO_INC_002635,Poor Unfortunate Souls,かわいそうな不幸な魂
 PROPQUEST_SCENARIO_INC_002636,"With the Overgrown Sharks out of the way, you can find out what lies deeper within the cavern.",生い茂ったサメが邪魔にならないように、洞窟の奥深くに何があるかを知ることができます。
 PROPQUEST_SCENARIO_INC_002637,Go back inside the cavern and seek out what caused the Cave of Envy to flood.,洞窟の中に戻り、羨望の洞窟が氾濫した原因を探してください。
 PROPQUEST_SCENARIO_INC_002638,"Don't give up now, you've nearly figured out the secret to this cave.",今あきらめないでください、あなたはこの洞窟の秘密をほぼ理解しました。
-PROPQUEST_SCENARIO_INC_002639,It's incredible that life has been hidden here this whole time! It's a shame the Mermaid Beauties were so vicious. Likely influenced by the magical waters just as the Syliaca were.,人生がずっとここに隠されてきたのは信じられないほどです!マーメイドビューティーズがとても悪質だったのは残念です。おそらく、シリアカと同じように魔法の水の影響を受けています。
+PROPQUEST_SCENARIO_INC_002639,It's incredible that life has been hidden here this whole time! It's a shame the Mermaid Beauties were so vicious. Likely influenced by the magical waters just as the Syliaca were.,人生がずっとここに隠されてきたのは信じられないほどです!マーメイドビューティーズがとても悪質だったのは残念です。おそらく、シーラカと同じように魔法の水の影響を受けています。
 PROPQUEST_SCENARIO_INC_002640,Go deeper into the cavern.,洞窟の奥深くへ。
 PROPQUEST_SCENARIO_INC_002641,Kill 25 Mermaid Beauty.,25人のマーメイドビューティーを殺します。
 PROPQUEST_SCENARIO_INC_002642,Call of the Siren,セイレーンの呼び声
@@ -1372,11 +1372,11 @@ PROPQUEST_SCENARIO_INC_002660,Bear's Endurance,クマの持久力
 PROPQUEST_SCENARIO_INC_002661,There has been a disturbance in the flow of Madrigal's magic lately... I've heard rumors that an unsuspecting adventurer released the Black Magician from their prison. ,最近、マドリガルの魔法の流れに乱れがあります。無防備な冒険者が黒魔術師を刑務所から解放したという噂を聞いたことがあります。
 PROPQUEST_SCENARIO_INC_002662,"The current Black Magician named Lapranche is also sometimes known as the Purple Magician. She has an incredible power that is lost to all of today's magicians, including myself. Lapranche can summon the will of Shade to cast Purple Magic, recreating parts of the world in Shade's image.",ラプランシュという名前の現在の黒魔術師は、パープルマジシャンとしても知られています。彼女は私を含む今日のすべての魔術師に失われている信じられないほどの力を持っています。ラプランシュはシェードの意志を召喚してパープルマジックを唱え、シェードのイメージで世界の一部を再現することができます。
 PROPQUEST_SCENARIO_INC_002663,"As of now we stand no chance in a battle with Lapranche... even I have grown too weak to defeat her, my former pupil. She is certainly in a weakened state, so there is time to prepare. Expect Lapranche to bide her time by causing choas around Madrigal. For now we must build our strength.",今のところ、ラプランシュとの戦いにチャンスはありません。私でさえ、かつての弟子である彼女を打ち負かすには弱くなりすぎました。彼女は確かに弱体化した状態にあるので、準備する時間があります。ラプランシュがマドリガルの周りにチョアを引き起こすことによって彼女の時間を入札することを期待してください。今は力を築かなければなりません。
-PROPQUEST_SCENARIO_INC_002664,"Before we move forward with the plan... I need you to prove that you are strong enough to fend for yourself. Bring me 50 Bearnerky Fang, then we can move forward with preparations.",計画を進める前に..私はあなたがあなた自身のために身を守るのに十分強いことを証明する必要があります。ベアナーキーファングを50個持ってきてくれれば、準備を進めましょう。
+PROPQUEST_SCENARIO_INC_002664,"Before we move forward with the plan... I need you to prove that you are strong enough to fend for yourself. Bring me 50 Bearnerky Fang, then we can move forward with preparations.",計画を進める前に..あなたが自分自身で身を守るだけの強さがあることを私に証明してほしい。ハニーシーカーの牙を50個持ってくることができれば、準備を進めましょう。
 PROPQUEST_SCENARIO_INC_002665,"If we are not prepared, Lapranche could unleash evil more terrible than us mortals could ever hope to face.",私たちが準備ができていなければ、ラプランシュは私たち人間が直面することを望むよりも恐ろしい悪を解き放つ可能性があります。
 PROPQUEST_SCENARIO_INC_002666,I hope you understand my hesitance... the power of Purple Magic is nothing to play with. We may start work on the plan now.,私の躊躇を理解していただければ幸いです。パープルマジックの力は遊ぶものではありません。今から計画に取り掛かるかもしれません。
-PROPQUEST_SCENARIO_INC_002667,Go defeat Bearnerky until you have collected 50 Bearnerky Fang.,ベアナーキーの牙を50個集めるまで、ベアナーキーを倒してください。
-PROPQUEST_SCENARIO_INC_002668,Collect 50 Bearnerky Fang.,ベアナーキーファングを50個集める。
+PROPQUEST_SCENARIO_INC_002667,Go defeat Bearnerky until you have collected 50 Bearnerky Fang.,ハニーシーカーの牙を50個集めるまで、ハニーシーカーを倒してください。
+PROPQUEST_SCENARIO_INC_002668,Collect 50 Bearnerky Fang.,ハニーシーカーの牙を50個集める。
 PROPQUEST_SCENARIO_INC_002669,Brother in Arms,腕の中の兄弟
 PROPQUEST_SCENARIO_INC_002670,"There is no hope in standing against Lapranche on our own. We must build an army of warriors, ensuring each is equipped with the weapons and armor needed to succeed.",私たちだけでラプランシュに立ち向かうことに希望はありません。私たちは戦士の軍隊を構築し、それぞれが成功するために必要な武器と鎧を装備していることを確認する必要があります。
 PROPQUEST_SCENARIO_INC_002671,"In the Deadwallderness lives a smelter who has experience with unique requests. Tell Nein of our plan, and see what help he can offer.",デッドウォールダーネスには、ユニークなリクエストの経験を持つ製錬所が住んでいます。ネインに私たちの計画を伝え、彼が提供できる助けを見てください。
